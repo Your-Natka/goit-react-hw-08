@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+.toolbar {
+  font-size: 20px;
+  display: flex;
+  column-gap: 3;
+}
+.point {
+  font-size: 14px;
+  color: black;
+}
