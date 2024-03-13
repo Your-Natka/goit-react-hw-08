@@ -12,7 +12,7 @@ const Footer = () => {
           sx={{ mt: 2, mb: 2 }}
         >
           {'Copyright © '}
-          <Link className={css.logo} href="#">
+          <Link className={css.logo} href="mailto:natalya1.10nb@gmail.com">
             Nataliia Bodnarchuk
           </Link>{' '}
           {new Date().getFullYear()}
