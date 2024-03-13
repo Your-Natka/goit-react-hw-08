@@ -3,10 +3,11 @@
   flex-direction: row;
   justify-content: space-around;
   box-shadow: 4px 4px 10px #c6cccced;
-  padding: 20px;
-  border-radius: 4px;
-  background-color: rgb(31, 31, 37);
-  width: calc(100% / 3 - 40px);
+  margin-top: 20px;
+  box-shadow: rgba(0, 0, 0, 0.45) 0px -15px 20px -5px;
+  border-radius: 8px;
+  width: calc(100% / 2 - 40px);
+  gap: 10px;
   /* max-width: 520px; */
 }
 
